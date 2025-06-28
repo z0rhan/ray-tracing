@@ -3,3 +3,12 @@ build/
 
 #for LSP
 compile_commands.json
+
+#cache
+.cache/
+
+#Format
+.clang-format
+
+#image
+*.ppm
